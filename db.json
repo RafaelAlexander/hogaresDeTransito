@@ -1,44 +1,44 @@
 {
-  "hogares": [
-     {
-      "id": "eyJpdiI6Ild2SWpkeFJhSDRCZGtxMEIzeHUwOGc9PSIsInZhbHVlIjoiQ1hxN1V6QzJVOGladXpudDA5bVZzdz09IiwibWFjIjoiY2M0YTAxOGNjYTk5ODk1OGVhZmRlM2NkOTgxZDY2MWU2ODk5ZDhjMzM2NjZmNjlkMjU2ODIzOWQwMzNiMzc3YSJ9",
-      "nombre": "Casita de Adopciones en Tigre",
-      "ubicacion": {
-        "direccion": "Los Mimbres 162, B1648 DUB, Provincia de Buenos Aires",
-        "lat": -34.42061525423029,
-        "long": -58.572775488348505
+   "hogares":[
+      {
+         "id":"eyJpdiI6Ild2SWpkeFJhSDRCZGtxMEIzeHUwOGc9PSIsInZhbHVlIjoiQ1hxN1V6QzJVOGladXpudDA5bVZzdz09IiwibWFjIjoiY2M0YTAxOGNjYTk5ODk1OGVhZmRlM2NkOTgxZDY2MWU2ODk5ZDhjMzM2NjZmNjlkMjU2ODIzOWQwMzNiMzc3YSJ9",
+         "nombre":"Casita de Adopciones en Tigre",
+         "ubicacion":{
+            "direccion":"Los Mimbres 162, B1648 DUB, Provincia de Buenos Aires",
+            "lat":-34.42061525423029,
+            "long":-58.572775488348505
+         },
+         "telefono":"+541144096338",
+         "admisiones":{
+            "perros":true,
+            "gatos":false
+         },
+         "capacidad":200,
+         "lugares_disponibles":110,
+         "patio":false,
+         "caracteristicas":[
+            "Manso"
+         ]
       },
-      "telefono": "+541144096338",
-      "admisiones": {
-        "perros": true,
-        "gatos": false
-      },
-      "capacidad": 200,
-      "lugares_disponibles": 110,
-      "patio": false,
-      "caracteristicas": [
-        "Manso"
-      ]
-    }
-     {
-      "id": "eyJpdiI6Ild2SWpkeFJhSDRCZGtxMEIzeHUwOGc9PSIsInZhbHVlIjoiQ1hxN1V6QzJVOGladXpudDA5bVZzdz09IiwibWFjIjoiY2M0YTAxOGNjYTk5ODk1OGVhZmRlM2NkOTgxZDY2MWU2ODk5ZDhjMzM2NjZmNjlkMjU2ODIzOWQwMzNiMzc3YSJ8",
-      "nombre": "Casita de Adopciones en Chacabuco",
-      "ubicacion": {
-        "direccion": "Los Mimbres 162, B1648 DUB, Provincia de Buenos Aires",
-        "lat": -32.42061525423029,
-        "long": -72.572775488348505
-      },
-      "telefono": "+541144096339",
-      "admisiones": {
-        "perros": false,
-        "gatos": true
-      },
-      "capacidad": 100,
-      "lugares_disponibles": 50,
-      "patio": true,
-      "caracteristicas": [
-        "Obediente"
-      ]
-    }
-  ]
+      {
+         "id":"eyJpdiI6Ild2SWpkeFJhSDRCZGtxMEIzeHUwOGc9PSIsInZhbHVlIjoiQ1hxN1V6QzJVOGladXpudDA5bVZzdz09IiwibWFjIjoiY2M0YTAxOGNjYTk5ODk1OGVhZmRlM2NkOTgxZDY2MWU2ODk5ZDhjMzM2NjZmNjlkMjU2ODIzOWQwMzNiMzc3YSJ8",
+         "nombre":"Casita de Adopciones en Chacabuco",
+         "ubicacion":{
+            "direccion":"Los Mimbres 162, B1648 DUB, Provincia de Buenos Aires",
+            "lat":-32.42061525423029,
+            "long":-72.572775488348505
+         },
+         "telefono":"+541144096339",
+         "admisiones":{
+            "perros":false,
+            "gatos":true
+         },
+         "capacidad":100,
+         "lugares_disponibles":50,
+         "patio":true,
+         "caracteristicas":[
+            "Obediente"
+         ]
+      }
+   ]
 }
